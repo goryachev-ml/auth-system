@@ -5,7 +5,7 @@ database.py - работа с SQLite3
 
 import sqlite3
 from typing import Optional, Dict, List, Any
-
+ 
 DATABASE_FILE = "auth.db"
 
 def get_connection():
