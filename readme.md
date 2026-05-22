@@ -5,12 +5,19 @@
 ## Структура
 
 auth-system/
+
 ├── main.py           # ~200 строк, сервер и API
+
 ├── database.py       # ~170 строк, модуль работы с БД
+
 ├── auth.db           # БД sqlite3
+
 ├── requirements.txt  # зависимости
+
 ├── README.md         # документация
+
 ├── .gitignore        # игнорируемые файлы
+
 └── LICENSE           # лицензия MIT
 
 ## Технологии
